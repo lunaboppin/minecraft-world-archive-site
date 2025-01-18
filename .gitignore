@@ -1,0 +1,4 @@
+static/
+vendor/
+composer.lock
+.env
